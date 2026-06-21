@@ -1,0 +1,9 @@
+obj/
+airline_tsp
+*.o
+*.swp
+*.swo
+*~
+output/
+data/bookings.txt
+data/flights.txt

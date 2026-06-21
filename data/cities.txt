@@ -1,0 +1,9 @@
+# City coordinates (name, x, y)
+Beijing,116.40,39.90
+Shanghai,121.47,31.23
+Guangzhou,113.27,23.13
+Shenzhen,114.06,22.54
+Chengdu,104.07,30.67
+Wuhan,114.30,30.60
+Xi'an,108.95,34.27
+Kunming,102.68,25.04
